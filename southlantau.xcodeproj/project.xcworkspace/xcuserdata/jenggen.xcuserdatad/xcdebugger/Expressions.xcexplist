@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[timeTableViewController label1touch:]:timeTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.timeList">
+            </PersistentString>
+            <PersistentString
+               value = "![tmpArray[i] isEqualToString:@&quot;&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "tmpArray[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__43-[businessDetailViewController viewDidLoad]_block_invoke_2:businessDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSLog(@&quot;SDF&quot;);">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
